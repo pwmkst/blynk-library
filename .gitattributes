@@ -1,5 +1,5 @@
 /extras export-ignore
 /.gitattributes export-ignore
-/.github export-ignore
+/.github export-ignore jason
 /.gitignore export-ignore
 /.travis.yml export-ignore
